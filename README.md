@@ -4,13 +4,13 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+<a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats" target="_blank">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsh Kulkarni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkulkarni17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 <br/>
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Harsh Kulkarni's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=harshkulkarni17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Harsh Kulkarni's Top Languages" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkulkarni17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="_blank"><img alt="Harsh Kulkarni's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=harshkulkarni17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats" target="_blank"><img alt="Harsh Kulkarni's Top Languages" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkulkarni17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -57,16 +57,16 @@
 ## <img src="https://img.icons8.com/offices/15/000000/trophy.png"/> Badges
 
 <p align="left">
-<a href="https://dev.to/harshkulkarni17"><img alt="Hacktoberfest 2021 Badge" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_110/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png"/></a>
-<a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank CPP Badge" src="./Badges/cpp.png"/></a>
-<a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank JAVA Badge" src="./Badges/java.png"/></a>
-<a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank Python Badge" src="./Badges/python.png"/></a>
-<a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank SQL Badge" src="./Badges/sql.png"/></a>
+<a href="https://dev.to/harshkulkarni17" target="_blank"><img alt="Hacktoberfest 2021 Badge" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_110/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png"/></a>
+<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank CPP Badge" src="./Badges/cpp.png"/></a>
+<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank JAVA Badge" src="./Badges/java.png"/></a>
+<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank Python Badge" src="./Badges/python.png"/></a>
+<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank SQL Badge" src="./Badges/sql.png"/></a>
 </p>
 
 <br/>
 
-<a href="https://github.com/harshkulkarni17/github-readme-activity-graph"><img alt="Harsh Kulkarni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshkulkarni17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph" target="_blank"><img alt="Harsh Kulkarni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshkulkarni17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -74,12 +74,12 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/harsh-kulkarni-57ab021a1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/harsh-kulkarni-57ab021a1/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/SubhamRaoniar28/github-profile-views-counter">
+<a href="https://github.com/SubhamRaoniar28/github-profile-views-counter" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=harshkulkarni17">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/harshkulkarni17?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/harshkulkarni17?label=Followers&style=social" alt="GitHub Badge"></a>
