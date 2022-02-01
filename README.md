@@ -1,8 +1,21 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Kulkarni</h1>
 <h3 align="center">I am passionate about pursuing my major in Information Technology and Computer Science.</h3>
 
+<br/>
+
+<p align="center">
+<a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsh Kulkarni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkulkarni17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
+<br/>
+<br/>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Harsh Kulkarni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshkulkarni17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Harsh Kulkarni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkulkarni17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -15,6 +28,8 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **harshkulkarni1705@gmail.com**
+
+<br/>
 
 ## <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/20/000000/external-coding-interface-kiranshastry-gradient-kiranshastry-1.png"/> Programming Languages:
 
@@ -41,45 +56,14 @@
 
 ## <img src="https://img.icons8.com/offices/15/000000/trophy.png"/> Badges
 
-<table align="center">
-<tr>
-<td>
-<a href="https://dev.to/harshkulkarni17"><img alt="Hacktoberfest 2021 Badge" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_100/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png"/></a>
-</td>
-<td>
+<p align="left">
+<a href="https://dev.to/harshkulkarni17"><img alt="Hacktoberfest 2021 Badge" src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_110/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png"/></a>
 <a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank CPP Badge" src="./Badges/cpp.png"/></a>
-</td>
-<td>
 <a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank JAVA Badge" src="./Badges/java.png"/></a>
-</td>
-<td>
 <a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank Python Badge" src="./Badges/python.png"/></a>
-</td>
-<td>
 <a href="https://www.hackerrank.com/harsh_kulkarni19"><img width="120" alt="Hakerrank SQL Badge" src="./Badges/sql.png"/></a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 My Github Stats
-<br/>
-<p align="center">
-    <a href="https://github.com/harshkulkarni17/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsh Kulkarni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkulkarni17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 </p>
-  <br/>
-  <p align="left">
-    <a href="https://github.com/harshkulkarni17/github-readme-stats"><img alt="Harsh Kulkarni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshkulkarni17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/harshkulkarni17/github-readme-stats"><img alt="Harsh Kulkarni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkulkarni17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
 <br/>
 
 <a href="https://github.com/harshkulkarni17/github-readme-activity-graph"><img alt="Harsh Kulkarni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshkulkarni17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
