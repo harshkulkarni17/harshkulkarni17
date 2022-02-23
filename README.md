@@ -61,8 +61,8 @@
 <a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank CPP Badge" src="./Badges/cpp.png"/></a>
 <a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank JAVA Badge" src="./Badges/java.png"/></a>
 <a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank Python Badge" src="./Badges/python.png"/></a>
-<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank SQL Badge" src="./Badges/sql.png"/></a>
-<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="120" alt="Hakerrank SQL Badge" src="./Badges/ps.png"/></a>
+<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="118" alt="Hakerrank SQL Badge" src="./Badges/sql.png"/></a>
+<a href="https://www.hackerrank.com/harsh_kulkarni19" target="_blank"><img width="115" alt="Hakerrank SQL Badge" src="./Badges/ps.png"/></a>
 </p>
 
 <br/>
